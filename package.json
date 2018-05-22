@@ -1,0 +1,26 @@
+{
+  "name": "rollup-splitting-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andarist/rollup-splitting-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andarist/rollup-splitting-issue/issues"
+  },
+  "homepage": "https://github.com/Andarist/rollup-splitting-issue#readme",
+  "devDependencies": {
+    "rollup": "^0.59.2"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
